@@ -13,4 +13,11 @@
 	<build>
 		<defaultGoal>clean compile exec:java</defaultGoal>
 	</build>
+	<dependencies>
+		<dependency>
+			<groupId>net.vectorpublish</groupId>
+			<artifactId>Start</artifactId>
+			<version>0.9.26</version>
+		</dependency>
+	</dependencies>
 </project>
